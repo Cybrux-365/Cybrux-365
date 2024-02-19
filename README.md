@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybrux-365&label=Profile%20views&color=0e75b6&style=flat" alt="cybrux-365" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybrux-365" alt="cybrux-365" /></a> </p>
-
 - ⚡ Fun fact **Nothing 🙂**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybrux-365&show_icons=true&locale=en" alt="cybrux-365" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybrux-365&" alt="cybrux-365" /></p>
+
