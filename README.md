@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm Cybrux</h1>
-<h3 align="center">From Morocco ..👾</h3>
+<h3 align="center">I like Computer Science And Programming..👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybrux-365&label=Profile%20views&color=0e75b6&style=flat" alt="cybrux-365" /> </p>
 
-- ⚡ Fun fact **Nothing 🙂**
+- 🌱 I’m currently learning **Nothing 👨‍💻**
+
+- 📝 I regularly write articles on [Nothing 👨‍💻](Nothing 👨‍💻)
+
+- 💬 Ask me about **Nothing 👨‍💻**
+
+- 📫 How to reach me **Instgram And Twiter 👨‍💻**
+
+- 📄 Know about my experiences [Nothing 👨‍💻](Nothing 👨‍💻)
+
+- ⚡ Fun fact **Nothing 👨‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybrux-365&show_icons=true&locale=en" alt="cybrux-365" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybrux-365&" alt="cybrux-365" /></p>
-1>
