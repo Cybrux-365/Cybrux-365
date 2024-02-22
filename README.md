@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybrux-365&theme=highcontrast" alt="cybrux-365" /></p>
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1920px-Flag_of_Palestine.svg.png" alt="Palestinian Flag" width="200"/></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1920px-Flag_of_Palestine.svg.png" alt="Palestinian Flag" width="200" style="filter: brightness(0) invert(1);"></p>
