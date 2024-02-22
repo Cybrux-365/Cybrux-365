@@ -4,8 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1700&pause=80&color=F72D00&background=000000&Center=true&multiline=true&height=200&lines= &zeta;+home+/+kali+/+intro+$_|;=>+Welcome+in+My+Account;=>+I+like+Programming+..!;=>+whoami+&gt+just+student!;=>+I+like+∑+/+Java+/+C+/+php+..;=>+&zeta;+Cybrux" alt="Typing SVG" />
 </a>
 
-
-
 <p align="left"> <a href="https://twitter.com/cybrux" target="blank"><img src="https://img.shields.io/twitter/follow/cybrux?logo=twitter&style=for-the-badge" alt="cybrux" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -29,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybrux-365&show_icons=true&theme=tokyonight&title_color=00d5ff&text_color=2fff05&bg_color=000000&hide_border=true&cache_seconds=1800&locale=en" alt="cybrux-365" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybrux-365&theme=highcontrast" alt="cybrux-365" /></p>
+
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1920px-Flag_of_Palestine.svg.png" alt="Palestinian Flag" width="200"/></p>
