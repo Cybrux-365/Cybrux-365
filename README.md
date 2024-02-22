@@ -1,7 +1,7 @@
 <h3 align="center">I like Computer Science And Programming..👨‍💻</h3>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1700&pause=80&color=F72D00&background=000000&Center=true&multiline=true&height=200&lines= ====>+∑+linux;&zeta;+home+/+kali+/+intro+$_|;=>+Welcome+in+My+Account;=>+I+like+Programming+..;=>+whoami+&gt+just+student!;=>+&zeta;+Cybrux" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1700&pause=80&color=F72D00&background=000000&Center=true&multiline=true&height=200&lines= &zeta;+home+/+kali+/+intro+$_|;=>+Welcome+in+My+Account;=>+I+like+Programming!+..;=>+whoami+&gt+just+student!;=>+I+like+∑+/+Java+/+C+/+php+..;=>+&zeta;+Cybrux" alt="Typing SVG" />
 </a>
 
 
